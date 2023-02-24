@@ -4,3 +4,4 @@ b = 4
 d = a + b
 print(d)
 print("zalupa")
+print("govno")
